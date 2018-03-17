@@ -1,0 +1,1 @@
+powershell.exe -NoP -NonI -W Hidden -Exec Bypass -enc [Base64 codes here]

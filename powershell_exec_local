@@ -1,0 +1,1 @@
+Powershell.exe -NoP -NonI -W Hidden -Exec Bypass -Command "& {Import-Module[powershellscriptPATH];[param]}"
